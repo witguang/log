@@ -1,0 +1,2 @@
+2024-11-27 09:46:00,090 - INFO - Created directory: /home/linux1/PhySO/log/20241127094600
+2024-11-27 09:46:00,714 - INFO - Figure saved in: /home/linux1/PhySO/log/20241127094600/output.png

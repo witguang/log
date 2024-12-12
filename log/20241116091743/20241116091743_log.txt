@@ -1,0 +1,31 @@
+2024-11-16 09:17:43,230 - INFO - Created directory: /home/linux1/PhySO/log/20241116091743
+2024-11-16 09:17:43,595 - INFO - Figure saved in: /home/linux1/PhySO/log/20241116091743/output.png
+2024-11-16 09:19:23,668 - INFO - 
+最佳表达式ascii ：
+
+b⋅tanh(a⋅f⋅sqrtₑᵤ₁⋅sqrtₑᵤ₁)
+2024-11-16 09:19:23,690 - INFO - 
+最佳表达式latex ：
+b \tanh{\left(a f sqrt_{eu1}^{2} \right)}
+2024-11-16 09:19:23,693 - INFO - 
+带系数的最佳表达式:
+
+-4.86115919448206*tanh(7.13222021868446*f*sqrt_eu1**2)
+2024-11-16 09:19:23,694 - INFO - 
+带系数的最佳表达式latex:
+
+\mathtt{\text{[-4.86115919448206*tanh(7.13222021868446*f*sqrt\_eu1**2)]}}
+2024-11-16 09:19:23,694 - INFO - 
+自由系数维度:
+
+FreeConstantsTable
+ -> Class consts (['a' 'b']) : (1, 2)
+ -> Spe consts   ([]) : (1, 0, 1)
+2024-11-16 09:19:23,696 - INFO - 
+自由系数:
+
+tensor([[ 7.1322, -4.8612]], dtype=torch.float64)
+2024-11-16 09:19:23,696 - INFO - 
+程序总耗时：
+
+0:01:40.465905
